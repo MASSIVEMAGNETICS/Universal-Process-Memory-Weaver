@@ -1,0 +1,1 @@
+; full NSIS script as above
